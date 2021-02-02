@@ -36,9 +36,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://rehioui-achraf.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/arehioui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:rehioui.achraf.1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://rehioui-achraf.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-rehioui-achraf.web.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/arehioui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-REHIOUI%20Achraf%20blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:rehioui.achraf.1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rehioui.achraf.1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AchrafREHIOUI](https://github.com/AchrafREHIOUI)
